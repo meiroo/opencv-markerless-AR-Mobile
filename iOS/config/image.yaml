@@ -1,0 +1,25 @@
+%YAML:1.0
+VW_Index:
+   matcherType: FlannBased
+   indexParams:
+      -
+         name: algorithm
+         type: 23
+         value: 1
+      -
+         name: trees
+         type: 4
+         value: 4
+   searchParams:
+      -
+         name: checks
+         type: 4
+         value: 32
+      -
+         name: eps
+         type: 5
+         value: 0.
+      -
+         name: sorted
+         type: 15
+         value: 1

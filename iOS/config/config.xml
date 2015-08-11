@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+<visualWord>image.bin</visualWord>
+<index>image.yaml</index>
+<ObjectDB>image.db</ObjectDB>
+
+
+<camera_matrix>camera_matrix_qcam.txt</camera_matrix>
+<focal_length>0.5</focal_length>
+<max_query_size>320</max_query_size>
+<full_screen_mode>false</full_screen_mode>
+<mirror_mode>true</mirror_mode>
+<model_info>
+  <_>
+    <id>1</id>
+    <ModelType>MQOSEQ</ModelType>
+    <modelfile>miku.xml</modelfile>
+    <scale>0.004</scale>
+	<init_pose>
+	  <!-- z-y-x euler angle -->
+	  <yaw>0</yaw>
+	  <pitch>0</pitch>
+	  <roll>0</roll>
+	  <x>0</x>
+	  <y>-0.2</y>
+	  <z>0</z>
+	</init_pose>
+  </_>
+</model_info>
+</opencv_storage>
