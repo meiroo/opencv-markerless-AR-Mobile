@@ -13,7 +13,7 @@ The visual-studio-2012 project can be found under the "src" folder.
 
 this is my testing video (win8/vs2012): 
 
-http://webgl.qiniudn.com/marker.m4v
+http://meiroo.github.io/img/marker.m4v
 
 =======================================================
 
@@ -28,7 +28,7 @@ This based on the opencv-android-mixed-demo, which has Java side for camera hand
 
 video:
 
-http://webgl.qiniudn.com/CV-ios.m4v
+http://meiroo.github.io/img/CV-ios.m4v
 
 Building and running with opencv-2.4.10-ios-version under iphone 5c, I have made some changes to make it running quicker. Now the recognize part cost 50-80 ms, while the tracking part cost only 15-25 ms, much quicker.
 But the speed is still not so good with mobile phones. Also , when tracking , there are accumulated-errors which can cause the pose very easy to fail ( the pose calculated by opencv opticalflow can have some error each frame, and will be accumulated to the last frame).
